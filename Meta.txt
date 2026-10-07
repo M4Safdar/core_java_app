@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 My name is  Mohammad Safdar 
 
 
 Mohalla Bharahu pura// change by local
+
+
+My name is  Mohammad Safdar // change by remote repository.
+
